@@ -1,0 +1,30 @@
+[
+  {
+    "id": "USR_01",
+    "nombre": "Alejandro Andrés",
+    "email": "alejandro@example.com",
+    "intolerancias": [
+      "ALG_GLUTEN"
+    ]
+  },
+  {
+    "id": "USR_02",
+    "nombre": "Beatriz Gómez",
+    "email": "beatriz@example.com",
+    "intolerancias": [
+      "ALG_LACTOSA"
+    ]
+  },
+  {
+    "id": "USR_03",
+    "nombre": "Carlos Martínez",
+    "email": "carlos@example.com",
+    "intolerancias": [],
+    "despensa": [
+      "ING_PATATA",
+      "ING_HUEVO",
+      "ING_CEBOLLA",
+      "ING_ACEITE"
+    ]
+  }
+]

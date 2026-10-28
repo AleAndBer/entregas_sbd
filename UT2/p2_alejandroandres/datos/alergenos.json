@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ALG_GLUTEN",
+    "nombre": "Gluten",
+    "gravedad": "Alta"
+  },
+  {
+    "id": "ALG_LACTOSA",
+    "nombre": "Lactosa",
+    "gravedad": "Alta"
+  },
+  {
+    "id": "ALG_HUEVO",
+    "nombre": "Huevo",
+    "gravedad": "Media"
+  },
+  {
+    "id": "ALG_PESCADO",
+    "nombre": "Pescado",
+    "gravedad": "Alta"
+  },
+  {
+    "id": "ALG_FRUTOS_SECOS",
+    "nombre": "Frutos Secos",
+    "gravedad": "Alta"
+  }
+]

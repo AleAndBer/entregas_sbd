@@ -1,0 +1,22 @@
+[
+  {
+    "id": "COC_MED",
+    "nombre": "Mediterránea",
+    "origen": "Sur de Europa"
+  },
+  {
+    "id": "COC_ITA",
+    "nombre": "Italiana",
+    "origen": "Italia"
+  },
+  {
+    "id": "COC_MEX",
+    "nombre": "Mexicana",
+    "origen": "México"
+  },
+  {
+    "id": "COC_ASI",
+    "nombre": "Asiática",
+    "origen": "Asia Oriental"
+  }
+]

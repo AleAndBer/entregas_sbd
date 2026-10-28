@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ING_HARINA_TRIGO",
+    "nombre": "Harina de trigo",
+    "categoria": "Cereales",
+    "alergenos": [
+      "ALG_GLUTEN"
+    ]
+  },
+  {
+    "id": "ING_ESPAGUETI",
+    "nombre": "Espaguetis de trigo",
+    "categoria": "Pastas",
+    "alergenos": [
+      "ALG_GLUTEN"
+    ]
+  },
+  {
+    "id": "ING_LECHE",
+    "nombre": "Leche entera",
+    "categoria": "Lácteos",
+    "alergenos": [
+      "ALG_LACTOSA"
+    ]
+  },
+  {
+    "id": "ING_PARMESANO",
+    "nombre": "Queso Parmesano",
+    "categoria": "Lácteos",
+    "alergenos": [
+      "ALG_LACTOSA"
+    ]
+  },
+  {
+    "id": "ING_NATA",
+    "nombre": "Nata para cocinar",
+    "categoria": "Lácteos",
+    "alergenos": [
+      "ALG_LACTOSA"
+    ]
+  },
+  {
+    "id": "ING_HUEVO",
+    "nombre": "Huevo fresco",
+    "categoria": "Huevos",
+    "alergenos": [
+      "ALG_HUEVO"
+    ]
+  },
+  {
+    "id": "ING_ATUN",
+    "nombre": "Atún fresco",
+    "categoria": "Pescados",
+    "alergenos": [
+      "ALG_PESCADO"
+    ]
+  },
+  {
+    "id": "ING_PATATA",
+    "nombre": "Patata",
+    "categoria": "Tubérculos",
+    "alergenos": []
+  },
+  {
+    "id": "ING_CEBOLLA",
+    "nombre": "Cebolla",
+    "categoria": "Verduras",
+    "alergenos": []
+  },
+  {
+    "id": "ING_TOMATE",
+    "nombre": "Tomate",
+    "categoria": "Verduras",
+    "alergenos": []
+  },
+  {
+    "id": "ING_ACEITE",
+    "nombre": "Aceite de oliva virgen",
+    "categoria": "Aceites",
+    "alergenos": []
+  },
+  {
+    "id": "ING_ARROZ",
+    "nombre": "Arroz bomba",
+    "categoria": "Cereales sin gluten",
+    "alergenos": []
+  },
+  {
+    "id": "ING_AGUACATE",
+    "nombre": "Aguacate",
+    "categoria": "Frutas",
+    "alergenos": []
+  },
+  {
+    "id": "ING_LIMA",
+    "nombre": "Lima",
+    "categoria": "Frutas",
+    "alergenos": []
+  },
+  {
+    "id": "ING_POLLO",
+    "nombre": "Pechuga de pollo",
+    "categoria": "Carnes",
+    "alergenos": []
+  },
+  {
+    "id": "ING_TORTILLA_MAIZ",
+    "nombre": "Tortilla de maíz",
+    "categoria": "Cereales sin gluten",
+    "alergenos": []
+  }
+]

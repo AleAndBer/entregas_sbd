@@ -1,0 +1,207 @@
+[
+  {
+    "id": "REC_01",
+    "nombre": "Tortilla de Patatas",
+    "tiempoMin": 30,
+    "dificultad": "Fácil",
+    "calorias": 350,
+    "tipoCocina": "COC_MED",
+    "ingredientes": [
+      {
+        "id": "ING_PATATA",
+        "cantidad": 4,
+        "unidad": "unidades"
+      },
+      {
+        "id": "ING_HUEVO",
+        "cantidad": 5,
+        "unidad": "unidades"
+      },
+      {
+        "id": "ING_CEBOLLA",
+        "cantidad": 1,
+        "unidad": "unidad"
+      },
+      {
+        "id": "ING_ACEITE",
+        "cantidad": 50,
+        "unidad": "ml"
+      }
+    ]
+  },
+  {
+    "id": "REC_02",
+    "nombre": "Espaguetis a la Carbonara",
+    "tiempoMin": 25,
+    "dificultad": "Media",
+    "calorias": 580,
+    "tipoCocina": "COC_ITA",
+    "ingredientes": [
+      {
+        "id": "ING_ESPAGUETI",
+        "cantidad": 200,
+        "unidad": "gramos"
+      },
+      {
+        "id": "ING_HUEVO",
+        "cantidad": 3,
+        "unidad": "yemas"
+      },
+      {
+        "id": "ING_PARMESANO",
+        "cantidad": 60,
+        "unidad": "gramos"
+      },
+      {
+        "id": "ING_ACEITE",
+        "cantidad": 20,
+        "unidad": "ml"
+      }
+    ]
+  },
+  {
+    "id": "REC_03",
+    "nombre": "Guacamole Casero",
+    "tiempoMin": 15,
+    "dificultad": "Fácil",
+    "calorias": 220,
+    "tipoCocina": "COC_MEX",
+    "ingredientes": [
+      {
+        "id": "ING_AGUACATE",
+        "cantidad": 2,
+        "unidad": "piezas"
+      },
+      {
+        "id": "ING_TOMATE",
+        "cantidad": 1,
+        "unidad": "pieza"
+      },
+      {
+        "id": "ING_CEBOLLA",
+        "cantidad": 0.5,
+        "unidad": "pieza"
+      },
+      {
+        "id": "ING_LIMA",
+        "cantidad": 1,
+        "unidad": "pieza"
+      },
+      {
+        "id": "ING_ACEITE",
+        "cantidad": 15,
+        "unidad": "ml"
+      }
+    ]
+  },
+  {
+    "id": "REC_04",
+    "nombre": "Ensalada Campera",
+    "tiempoMin": 20,
+    "dificultad": "Fácil",
+    "calorias": 290,
+    "tipoCocina": "COC_MED",
+    "ingredientes": [
+      {
+        "id": "ING_PATATA",
+        "cantidad": 3,
+        "unidad": "unidades"
+      },
+      {
+        "id": "ING_TOMATE",
+        "cantidad": 2,
+        "unidad": "unidades"
+      },
+      {
+        "id": "ING_CEBOLLA",
+        "cantidad": 0.5,
+        "unidad": "unidad"
+      },
+      {
+        "id": "ING_HUEVO",
+        "cantidad": 2,
+        "unidad": "unidades"
+      },
+      {
+        "id": "ING_ATUN",
+        "cantidad": 150,
+        "unidad": "gramos"
+      },
+      {
+        "id": "ING_ACEITE",
+        "cantidad": 30,
+        "unidad": "ml"
+      }
+    ]
+  },
+  {
+    "id": "REC_05",
+    "nombre": "Tacos de Pollo Suaves",
+    "tiempoMin": 35,
+    "dificultad": "Fácil",
+    "calorias": 410,
+    "tipoCocina": "COC_MEX",
+    "ingredientes": [
+      {
+        "id": "ING_TORTILLA_MAIZ",
+        "cantidad": 4,
+        "unidad": "unidades"
+      },
+      {
+        "id": "ING_POLLO",
+        "cantidad": 300,
+        "unidad": "gramos"
+      },
+      {
+        "id": "ING_CEBOLLA",
+        "cantidad": 1,
+        "unidad": "unidad"
+      },
+      {
+        "id": "ING_TOMATE",
+        "cantidad": 1,
+        "unidad": "unidad"
+      },
+      {
+        "id": "ING_AGUACATE",
+        "cantidad": 1,
+        "unidad": "unidad"
+      }
+    ]
+  },
+  {
+    "id": "REC_06",
+    "nombre": "Arroz con Pollo Mediterráneo",
+    "tiempoMin": 45,
+    "dificultad": "Media",
+    "calorias": 480,
+    "tipoCocina": "COC_MED",
+    "ingredientes": [
+      {
+        "id": "ING_ARROZ",
+        "cantidad": 250,
+        "unidad": "gramos"
+      },
+      {
+        "id": "ING_POLLO",
+        "cantidad": 350,
+        "unidad": "gramos"
+      },
+      {
+        "id": "ING_TOMATE",
+        "cantidad": 2,
+        "unidad": "piezas"
+      },
+      {
+        "id": "ING_CEBOLLA",
+        "cantidad": 1,
+        "unidad": "pieza"
+      },
+      {
+        "id": "ING_ACEITE",
+        "cantidad": 40,
+        "unidad": "ml"
+      }
+    ]
+  }
+]
